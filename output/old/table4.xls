@@ -1,0 +1,15 @@
+	(1) Fabrics (Loom)	(2) Fabrics (Factory)	(3) Proportion Factory-made
+Share of Large Estates (1858)	-15383.755***	-270.563***	-0.432**
+	3422.102	80.527	0.214
+Observations	279	279	278
+R-squared	0.13	0.16	0.01
+	(1) Fabrics (Loom)	(2) Fabrics (Factory)	(3) Proportion Factory-made
+Proportion of Loamy Soil	-0.023***	-0.023***	-0.023***
+	0.003	0.003	0.003
+Observations	270	270	270
+R-squared	0.18	0.18	0.18
+	(1) Fabrics (Loom)	(2) Fabrics (Factory)	(3) Proportion Factory-made
+Share of Large Estates (1858)	-34130.100*	-179.434	-1.636
+	18587.644	189.771	1.197
+Observations	270	270	270
+First-stage F-stat	48.19	48.19	48.19

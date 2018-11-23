@@ -1,0 +1,459 @@
+kreiskey1874,county,rb,pop1871_born_m_7162,pop1871_born_f_7162
+1,"Memel","KON",6564,6553
+2,"Fischhausen","KON",5861,5654
+3,"Stadt Königsberg","KON",10524,10303
+4,"Landkreis Königsberg","KON",6299,6187
+5,"Labiau","KON",6402,6487
+6,"Wehlau","KON",5764,5790
+7,"Gerdauen","KON",4935,4897
+8,"Rastenburg","KON",5181,5317
+9,"Friedland","KON",5405,5434
+10,"Preussisch Eylau","KON",7145,7239
+11,"Heiligenbeil","KON",5888,5934
+12,"Braunsberg","KON",6393,6287
+13,"Heilsberg","KON",6599,6688
+14,"Rössel","KON",6319,6354
+15,"Allenstein","KON",7499,7442
+16,"Ortelsburg","KON",9139,9080
+17,"Neidenburg","KON",7323,7381
+18,"Osterode a. d. Drew.","KON",8875,8955
+19,"Mohrungen","KON",7370,7359
+20,"Preussisch Holland","KON",5922,5651
+21,"Heydekrug","GUM",4693,4846
+22,"Niederung","GUM",6650,6671
+23,"Tilsit: Stadt","GUM",2078,2019
+24,"Landkreis Tilsit","GUM",5336,5416
+25,"Ragnit","GUM",6801,6864
+26,"Pillkallen","GUM",5388,5237
+27,"Stallupönen","GUM",5791,5735
+28,"Gumbinnen","GUM",5898,5665
+29,"Insterburg","GUM",8408,8221
+30,"Darkehmen","GUM",4621,4751
+31,"Angerburg","GUM",5030,5004
+32,"Goldap","GUM",5605,5718
+33,"Oletzko","GUM",4961,4915
+34,"Lyk","GUM",5616,5508
+35,"Lötzen","GUM",4886,4921
+36,"Sensburg","GUM",6382,6489
+37,"Johannisburg","GUM",5779,5765
+38,"Elbing","DAN",3241,3198
+39,"Landkreis Elbing","DAN",4882,4724
+40,"Marienburg i. Pr.","DAN",7607,7444
+41,"Stadt Danzig","DAN",9010,8860
+42,"Landkreis Danzig","DAN",10630,10381
+43,"Pr. Stargard","DAN",10036,10168
+44,"Berent","DAN",6387,6288
+45,"Karthaus","DAN",8429,8008
+46,"Neustadt i. Wpr.","DAN",8589,8401
+47,"Stuhm","MAR",5450,5519
+48,"Marienwerder","MAR",8840,8724
+49,"Rosenberg i. Pr.","MAR",7065,6963
+50,"Löbau","MAR",7255,7123
+51,"Strasburg","MAR",9265,9237
+52,"Thorn","MAR",9381,9610
+53,"Kulm","MAR",7488,7594
+54,"Graudenz","MAR",7618,7782
+55,"Schwetz","MAR",10821,10826
+56,"Konitz","MAR",10363,10488
+57,"Schlochau","MAR",8636,8518
+58,"Flatkow","MAR",9249,9096
+59,"Dt. Krone","MAR",8624,8660
+60,"Berlin","POT",79296,79808
+61,"Prenzlau","POT",6435,6385
+62,"Templin","POT",5939,5711
+63,"Angermünde","POT",8030,7842
+64,"Oberbarnim","POT",8749,8452
+65,"Niederbarnim","POT",10939,10949
+66,"Teltow","POT",13483,13265
+67,"Beeskow-Storkow","POT",5411,5699
+68,"Jüterbock-Luckenwalde","POT",7326,7174
+69,"Zauche-Belzig","POT",8253,7945
+70,"Stadt Potsdam","POT",3887,3911
+71,"Ost-Havelland","POT",8080,7898
+72,"Brandenburg a./Havel","POT",2662,2714
+73,"West-Havelland","POT",5668,5484
+74,"Ruppin","POT",8477,8479
+75,"Ostpriegnitz","POT",7814,7538
+76,"Westpriegnitz","POT",8213,7903
+77,"Königsberg","FRA",11180,11246
+78,"Soldin","FRA",6249,6124
+79,"Arnswalde","FRA",5422,5497
+80,"Friedeberg","FRA",6777,6565
+81,"Landsberg","FRA",10007,9883
+82,"Lebus","FRA",11814,11752
+83,"Stadt Frankfurt","FRA",4575,4405
+84,"Ost-Sternberg","FRA",5569,5396
+85,"West-Sternberg","FRA",5924,6091
+86,"Züllichau-Schwiebus","FRA",6070,6018
+87,"Krossen","FRA",7575,7492
+88,"Guben","FRA",7626,7483
+89,"Lübben","FRA",4162,4015
+90,"Luckau","FRA",7343,7249
+91,"Kalau","FRA",5571,5570
+92,"Kottbus","FRA",7644,7724
+93,"Sorau","FRA",10146,10021
+94,"Spremberg","FRA",2806,2954
+95,"Demmin","STE",5953,5740
+96,"Anklam","STE",3862,3746
+97,"Usedom-Wollin","STE",5415,5309
+98,"Ükermünde","STE",5732,5583
+99,"Randow","STE",12150,12138
+100,"Stadtkreis Stettin","STE",7309,7287
+101,"Greifenhagen","STE",7055,6840
+102,"Pyritz","STE",5357,5320
+103,"Saatzig","STE",8050,7797
+104,"Naugard","STE",7495,7231
+105,"Kammin","STE",5778,5597
+106,"Greifenberg","STE",4562,4459
+107,"Regenwalde","STE",6604,6417
+108,"Schivelbein","KOS",2673,2501
+109,"Dramburg","KOS",4906,4798
+110,"Neustettin","KOS",10421,10128
+111,"Belgard","KOS",6134,5927
+112,"Kolberg-Körlin","KOS",6279,6006
+113,"Köslin","KOS",5392,5338
+114,"Bublitz","KOS",2949,2913
+115,"Schlawe","KOS",10303,10230
+116,"Rummelsburg","KOS",4600,4515
+117,"Stolp","KOS",12358,11977
+118,"Lauenburg","KOS",6190,5994
+119,"Bütow","KOS",3333,3264
+120,"Rügen","STR",5807,5609
+121,"Stadt Stralsund","STR",3324,3247
+122,"Franzburg","STR",5143,5021
+123,"Greifswald","STR",6818,6725
+124,"Grimmen","STR",5074,4827
+125,"Wreschen","POS",5823,5849
+126,"Pleschen","POS",9131,9128
+127,"Schroda","POS",7209,7099
+128,"Schrimm","POS",8256,8241
+129,"Kosten","POS",9622,9618
+130,"Buk","POS",8135,8263
+131,"Stadt Posen","POS",4930,4811
+132,"Landkreis Posen","POS",8153,8058
+133,"Obernik","POS",6648,6617
+134,"Samter","POS",6911,6950
+135,"Birnbaum","POS",6286,6227
+136,"Meseritz","POS",6040,5880
+137,"Bomst","POS",7459,7294
+138,"Fraustadt","POS",7348,7328
+139,"Kröben","POS",9930,9753
+140,"Krotoschin","POS",9248,9104
+141,"Adelnau","POS",8483,8463
+142,"Schildberg","POS",9202,9232
+143,"Czarnikau","BRO",9677,9590
+144,"Chodziesen","BRO",7466,7116
+145,"Wirsitz","BRO",8115,8083
+146,"Bromberg","BRO",2998,2942
+147,"Landkreis Bromberg","BRO",9542,9364
+148,"Schubin","BRO",8270,8292
+149,"Inowraclaw","BRO",11356,11201
+150,"Mogilno","BRO",6820,6881
+151,"Gnesen","BRO",8527,8370
+152,"Wongrowitz","BRO",8033,7803
+153,"Namslau","BRE",5017,5008
+154,"Wartenberg","BRE",7140,7062
+155,"Oels","BRE",7996,7759
+156,"Trebnitz","BRE",6334,6088
+157,"Militsch","BRE",6953,6951
+158,"Guhrau","BRE",4242,4157
+159,"Steinau","BRE",2811,2843
+160,"Wohlau","BRE",5984,5964
+161,"Neumarkt","BRE",7077,7007
+162,"Stadtkreis Breslau","BRE",19758,20117
+163,"Landkreis Breslau","BRE",9005,9266
+164,"Ohlau","BRE",7245,7214
+165,"Brieg","BRE",6393,6420
+166,"Strehlen","BRE",4244,4172
+167,"Nimptsch","BRE",3919,3915
+168,"Münsterberg","BRE",4085,4160
+169,"Frankenstein","BRE",5940,5908
+170,"Reichenbach","BRE",7891,7858
+171,"Schweidnitz","BRE",9793,9967
+172,"Striegau","BRE",4527,4536
+173,"Waldenburg","BRE",12379,12392
+174,"Glatz","BRE",6987,7008
+175,"Neurode","BRE",6159,6302
+176,"Habelschwerdt","BRE",6686,6569
+177,"Grünberg","LIE",5922,5962
+178,"Freistadt","LIE",5586,5543
+179,"Sagan","LIE",6152,6180
+180,"Sprottau","LIE",3657,3771
+181,"Glogau","LIE",7450,7214
+182,"Lüben","LIE",3947,3974
+183,"Bunzlau","LIE",6100,6143
+184,"Goldberg-Haynau","LIE",4869,5019
+185,"Stadtkreis Liegnitz","LIE",2394,2478
+186,"Landkreis Liegnitz","LIE",5335,5336
+187,"Jauer","LIE",3490,3472
+188,"Schönau","LIE",2601,2702
+189,"Bolkenhain","LIE",3625,3638
+190,"Landeshut","LIE",5194,5273
+191,"Hirschberg","LIE",6404,6484
+192,"Löwenberg","LIE",6681,6837
+193,"Lauban","LIE",6814,6847
+194,"Görlitz","LIE",4189,4235
+195,"Landkreis Görlitz","LIE",5243,5309
+196,"Rothenburg","LIE",6505,6525
+197,"Hoyerswerda","LIE",3605,3624
+198,"Kreuzburg","OPP",5916,5895
+199,"Rosenberg","OPP",6801,6751
+200,"Oppeln","OPP",13713,13994
+201,"Gross Stehlitz","OPP",8871,8761
+202,"Lublinitz","OPP",6790,6694
+203,"Tost-Gleiwitz","OPP",11724,12126
+204,"Tarnowitz","OPP",5504,5820
+205,"Beuthen","OPP",11638,11723
+206,"Zabrze","OPP",5652,5740
+207,"Kattowitz","OPP",10788,10692
+208,"Pless","OPP",13180,13017
+209,"Rybnik","OPP",10773,10810
+210,"Ratibor","OPP",15789,15891
+211,"Kosel","OPP",9085,9210
+212,"Leobschütz","OPP",10965,10867
+213,"Neustadt","OPP",11227,11315
+214,"Falkenberg","OPP",5469,5368
+215,"Neisse","OPP",10498,10469
+216,"Grottkau","OPP",5462,5595
+217,"Osterburg","MAG",5052,4902
+218,"Salzwedel","MAG",5425,5485
+219,"Gardelegen","MAG",5899,5677
+220,"Stendal","MAG",5520,5335
+221,"Jerichow I","MAG",7908,7886
+222,"Jerichow II","MAG",6335,6119
+223,"Kalbe","MAG",9709,9624
+224,"Wanzleben","MAG",8663,8362
+225,"Stadtkreis Magdeburg","MAG",11041,11329
+226,"Wolmirstedt","MAG",6013,5998
+227,"Neuhaldensleben","MAG",6097,5894
+228,"Oschersleben","MAG",5367,5546
+229,"Aschersleben","MAG",7485,7300
+230,"Halberstadt","MAG",6410,6543
+231,"Wernigerode","MAG",2354,2479
+232,"Liebenwerda","MER",5802,5659
+233,"Torgau","MER",6425,6165
+234,"Schweinitz","MER",5156,5051
+235,"Wittenberg","MER",5902,6064
+236,"Bitterfeld","MER",6181,6236
+237,"Saale","MER",8375,8185
+238,"Stadt Halle","MER",5418,5461
+239,"Delitzsch","MER",7191,6972
+240,"Gebirgskreis Mansfeld","MER",5672,5582
+241,"Seekreis Mansfeld","MER",8816,8772
+242,"Sangerhausen","MER",8602,8425
+243,"Eckartsberga","MER",4776,4676
+244,"Querfurt","MER",6871,6692
+245,"Merseburg","MER",8055,7901
+246,"Weissenfels","MER",8889,8550
+247,"Naumburg","MER",2846,2869
+248,"Zeitz","MER",5235,5287
+249,"Nordhausen","ERF",8320,8051
+250,"Worbis","ERF",5581,5430
+251,"Heiligenstadt","ERF",4899,4854
+252,"Mühlhausen","ERF",6549,6464
+253,"Langensalza","ERF",4143,4015
+254,"Weissensee","ERF",3531,3459
+255,"Stadt Erfurt","ERF",4503,4425
+256,"Landkreis Erfurt","ERF",2404,2452
+257,"Ziegenrück","ERF",1864,1773
+258,"Schleusingen","ERF",5131,5015
+259,"Hadersleben","SCH",7107,6983
+260,"Apenrade","SCH",3341,3262
+261,"Sonderburg","SCH",3502,3386
+262,"Flensburg","SCH",6916,6620
+263,"Schleswig","SCH",6984,6684
+264,"Eckernförde","SCH",5595,5490
+265,"Eiderstedt","SCH",2137,2105
+266,"Husum","SCH",4392,4295
+267,"Tondern","SCH",6939,6753
+268,"Oldenburg","SCH",5924,5769
+269,"Plön","SCH",6563,6368
+270,"Kiel","SCH",7734,7505
+271,"Rendsburg","SCH",4890,4620
+272,"Norderdithmarschen","SCH",4561,4513
+273,"Süderdithmarschen","SCH",5236,5134
+274,"Steinburg","SCH",6956,6910
+275,"Segeberg","SCH",5492,5237
+276,"Stormarn","SCH",7768,7518
+277,"Pinneberg","SCH",7325,7231
+278,"Altona","SCH",9613,9616
+279,"Diepholz","HAN",6276,6059
+280,"Hoya","HAN",5449,5183
+281,"Nienburg","HAN",6369,6254
+282,"Stadt Hannover","HAN",8035,8178
+283,"Landkreis Hannover","HAN",9348,8926
+284,"Wennigsen","HAN",5772,5893
+285,"Hameln","HAN",5828,5894
+286,"Hildesheim","HIL",6694,6440
+287,"Marienburg b. H.","HIL",6471,6425
+288,"Liebenburg","HIL",6110,6105
+289,"Osterode a. H.","HIL",8108,8039
+290,"Göttingen","HIL",7622,7703
+291,"Einbeck","HIL",7968,7889
+292,"Zellerfeld","HIL",5011,4970
+293,"Celle","LUN",6825,6696
+294,"Gifhorn","LUN",5623,5656
+295,"Fallingbostel","LUN",5845,5920
+296,"Uelzen","LUN",4788,4677
+297,"Dannenberg","LUN",5479,5401
+298,"Lüneburg","LUN",5073,5165
+299,"Harburg","LUN",8478,8181
+300,"Stader Marsch","STA",5139,4955
+301,"Stader Geest","STA",6464,6179
+302,"Neuhaus","STA",3534,3567
+303,"Otterndorf","STA",2018,2072
+304,"Lehe","STA",6836,6572
+305,"Osterholz","STA",5742,5555
+306,"Verden","STA",5242,4967
+307,"Rotenburg a. W.","STA",3968,3848
+308,"Meppen","OSN",6447,5998
+309,"Lingen","OSN",6626,6509
+310,"Bersenbrück","OSN",5379,5198
+311,"Osnabrück","OSN",8064,7846
+312,"Melle","OSN",6254,6065
+313,"Aurich","AUR",8688,8413
+314,"Emden","AUR",6985,6964
+315,"Leer","AUR",7957,7844
+316,"Tecklenburg","MUN",5634,5664
+317,"Warendorf","MUN",3006,2940
+318,"Beckum","MUN",4551,4351
+319,"Lüdinghausen","MUN",4541,4315
+320,"Stadt Münster","MUN",1924,1880
+321,"Landkreis Münster","MUN",4729,4867
+322,"Steinfurt","MUN",4778,4685
+323,"Koesfeld","MUN",4234,4317
+324,"Ahaus","MUN",3743,3671
+325,"Borken","MUN",4391,4361
+326,"Recklinghausen","MUN",6710,6383
+327,"Minden","MIN",9335,9164
+328,"Lübbecke","MIN",6375,6185
+329,"Herford","MIN",9319,9260
+330,"Halle in Westfalen","MIN",3529,3513
+331,"Bielefeld","MIN",7783,7583
+332,"Wiedenbrück","MIN",5360,5209
+333,"Paderborn","MIN",4814,4683
+334,"Büren","MIN",4748,4552
+335,"Warburg","MIN",3875,3841
+336,"Höxter","MIN",6297,6302
+337,"Arnsberg","ARN",4885,4578
+338,"Meschede","ARN",4378,4366
+339,"Brilon","ARN",4912,4905
+340,"Lippstadt","ARN",4489,4370
+341,"Soest","ARN",6168,5974
+342,"Hamm","ARN",7963,7774
+343,"Dortmund","ARN",19466,18841
+344,"Bochum","ARN",20726,20052
+345,"Hagen","ARN",15384,15002
+346,"Iserlohn","ARN",7422,7294
+347,"Altena","ARN",7206,7088
+348,"Olpe","ARN",4072,4052
+349,"Siegen","ARN",7472,7524
+350,"Wittgenstein","ARN",2724,2590
+351,"Stadt Kassel","KAS",4076,4091
+352,"Landkreis Kassel","KAS",5194,5045
+353,"Eschwege","KAS",5222,5025
+354,"Fritzlar","KAS",3285,3258
+355,"Hofgeismar","KAS",4708,4592
+356,"Homberg","KAS",2652,2632
+357,"Melsungen","KAS",3618,3546
+358,"Rotenburg a. F.","KAS",4188,4149
+359,"Witzenhausen","KAS",4050,4094
+360,"Wolfhagen","KAS",3158,3203
+361,"Marburg","KAS",4244,4137
+362,"Frankenberg","KAS",3048,3105
+363,"Kirchhain","KAS",2766,2592
+364,"Ziegenhain","KAS",3904,3799
+365,"Fulda","KAS",5478,5405
+366,"Hersfeld","KAS",4491,4373
+367,"Hünfeld","KAS",3170,3022
+368,"Hanau","KAS",7758,7769
+369,"Gelnhausen","KAS",5370,5353
+370,"Schlüchtern","KAS",3887,3848
+371,"Schmalkalden","KAS",3841,3706
+372,"Rinteln","KAS",4703,4703
+373,"Gersfeld","KAS",2748,2646
+374,"Dillkreis (Dillenburg)","WIE",4340,4160
+375,"Oberwesterwald (Marienberg)","WIE",4707,4736
+376,"Unterwesterwald (Montabaur)","WIE",7039,6943
+377,"Oberlahnkreis (Weilburg)","WIE",7191,7089
+378,"Unterlahnkreis (Diez)","WIE",8567,8464
+379,"Rheingau-Kreis (Rüdesheim)","WIE",7260,7022
+380,"Stadtkreis Wiesbaden","WIE",3456,3519
+381,"Mainkreis (Wiesbaden)","WIE",7232,7164
+382,"Obertaunus-Kreis (Homburg)","WIE",6573,6455
+383,"Untertaunus (Langenschwalb.)","WIE",5608,5589
+384,"Frankfurt am Main","WIE",9193,9229
+385,"Hinterlandkreis (Biedenkopf)","WIE",4891,4929
+386,"Koblenz","KOB",7421,7618
+387,"Sankt Goar","KOB",4954,4926
+388,"Kreuznach","KOB",7362,7298
+389,"Simmern","KOB",4544,4317
+390,"Zell","KOB",3622,3607
+391,"Kochem","KOB",4497,4632
+392,"Mayen","KOB",6402,6351
+393,"Adenau","KOB",2723,2674
+394,"Ahrweiler","KOB",4013,4047
+395,"Neuwied","KOB",8339,8328
+396,"Altenkirchen","KOB",6320,6417
+397,"Wetzlar","KOB",5356,5283
+398,"Meisenheim","KOB",1549,1502
+399,"Kleve","DUS",5365,5420
+400,"Rees","DUS",6713,6457
+401,"Stadtkreis Krefeld","DUS",6635,6772
+402,"Landkreis Krefeld","DUS",3392,3366
+403,"Stadt Duisburg","DUS",4271,4228
+404,"Mülheim a. d. Ruhr","DUS",16375,15551
+405,"Stadtkreis Essen","DUS",7133,6773
+406,"Landkreis Essen","DUS",12029,11173
+407,"Mörs","DUS",7261,7107
+408,"Geldern","DUS",5554,5362
+409,"Kempen","DUS",9434,9257
+410,"Stadtkreis Düsseldorf","DUS",7548,7560
+411,"Landkreis Düsseldorf","DUS",6042,5926
+412,"Stadt Elberfeld","DUS",8674,8637
+413,"Stadt Barmen","DUS",10063,9644
+414,"Mettmann","DUS",7040,6801
+415,"Lennep","DUS",10951,10488
+416,"Solingen","DUS",12672,12250
+417,"Neuss","DUS",5214,5203
+418,"Grevenbroich","DUS",4749,4711
+419,"Gladbach","DUS",12303,11975
+420,"Wipperfürth","KOL",3430,3363
+421,"Waldbröl","KOL",3124,2888
+422,"Gummersbach","KOL",3749,3613
+423,"Siegkreis","KOL",10387,10578
+424,"Mülheim am Rhein","KOL",7287,7231
+425,"Stadtkreis Köln","KOL",12469,11840
+426,"Landkreis Köln","KOL",11042,10835
+427,"Kreis Bergheim","KOL",4870,4870
+428,"Euskirchen","KOL",4386,4423
+429,"Rheinbach","KOL",3798,3645
+430,"Bonn","KOL",7939,7964
+431,"Daun","TRI",3360,3268
+432,"Prüm","TRI",4410,4220
+433,"Bitburg","TRI",5414,5379
+434,"Wittlich","TRI",4730,4700
+435,"Bernkastel","TRI",5379,5477
+436,"Stadtkreis Trier","TRI",3061,3173
+437,"Landkreis Trier","TRI",8240,8109
+438,"Kreis Saarburg","TRI",3511,3539
+439,"Merzig","TRI",4877,4817
+440,"Saarlouis","TRI",7809,7808
+441,"Saarbrücken","TRI",11817,11739
+442,"Ottweiler","TRI",7460,7516
+443,"Sanct Wendel","TRI",5859,5747
+444,"Erkelenz","AAC",4380,4253
+445,"Heinsberg","AAC",4128,4026
+446,"Geilenkirchen","AAC",2902,2998
+447,"Jülich","AAC",4747,4633
+448,"Düren","AAC",7822,7952
+449,"Stadtkreis Aachen","AAC",7805,7722
+450,"Landkreis Aachen","AAC",11554,11694
+451,"Eupen","AAC",3131,3105
+452,"Montjoie","AAC",2052,2086
+453,"Schleiden","AAC",5251,4975
+454,"Malmedy","AAC",3596,3553
+455,"Oberamtsbezirk Sigmaringen","SIG",2178,2199
+456,"Oberamtsbezirk Gammertingen","SIG",1413,1518
+457,"Oberamtsbezirk Hechingen","SIG",2229,2219
+458,"Oberamtsbezirk Haigerloch","SIG",1212,1327

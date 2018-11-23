@@ -1,0 +1,15 @@
+	(1) Engine Power	(2) Number of Steam Engines	(3) Number of Handlooms	(4) Number of Looms	(5) Ratio of Handlooms to Looms
+1849 std_land_timespec	-136.153***	-3.275***	-194.903***	165.126	-0.062***
+	50.161	0.968	62.809	152.151	0.012
+Observations	279	279	279	279	279
+R-squared	0.10	0.23	0.04	0.40	0.07
+	(1) Engine Power	(2) Number of Steam Engines	(3) Number of Handlooms	(4) Number of Looms	(5) Ratio of Handlooms to Looms
+1816 soil_loam_pc	1.548***	1.548***	1.548***	1.548***	1.548***
+	0.239	0.239	0.239	0.239	0.239
+Observations	279	279	279	279	279
+R-squared	0.20	0.20	0.20	0.20	0.20
+	(1) Engine Power	(2) Number of Steam Engines	(3) Number of Handlooms	(4) Number of Looms	(5) Ratio of Handlooms to Looms
+1849 std_land_timespec	-123.593	-1.635	-199.143	80.621	-0.082**
+	119.232	2.805	215.475	379.168	0.038
+Observations	279	279	279	279	279
+First-stage F-stat	42.10	42.10	42.10	42.10	42.10

@@ -1,0 +1,26 @@
+{
+\def\sym#1{\ifmmode^{#1}\else\(^{#1}\)\fi}
+\begin{tabular}{l*{1}{ccccc}}
+\hline\hline
+                    &\multicolumn{5}{c}{(1)}                                         \\
+                    &\multicolumn{5}{c}{}                                            \\
+                    &        mean&          sd&         min&         max&       count\\
+\hline
+Population 1849     &    58057.11&    42093.19&       13647&      423902&         279\\
+Share of Large Estates (1849)&    .0210128&    .0216628&           0&     .113963&         277\\
+Proportion of Loamy Soil&    .2844555&    .2174356&           0&    .9110581&         280\\
+Proportion of Sandy Soil&     .240342&    .2288414&           0&    .8089024&         270\\
+Ironworks           &    2.580645&    8.176985&           0&          82&         279\\
+Steelworks          &    1.064516&    8.003335&           0&         114&         279\\
+Number of Fabric Looms (1849)&    607.4803&    1366.814&           0&        8122&         279\\
+Number of Fabric Power Looms (1849)&    15.82079&    84.74216&           0&         928&         279\\
+Power Looms-Looms Ratio&    .0212083&     .098716&           0&    .9384615&         277\\
+Number of Factories &    150.6893&    149.9168&           0&        1557&         280\\
+Proportion of Workers in Factory&    .0235671&    .0397779&    .0012524&    .3637325&         279\\
+Proportion of Workers in Agriculture&     .412803&    .1661263&           0&    .8486875&         279\\
+Number of Steam Engines&    7.003571&    18.94427&           0&         171&         280\\
+Steam Engine Power (HP)&    239.5571&    902.0201&           0&        9864&         280\\
+Ratio of Handlooms to Looms&    .1138936&    .2394792&           0&    1.624191&         279\\
+\hline\hline
+\end{tabular}
+}

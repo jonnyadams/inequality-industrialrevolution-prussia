@@ -1,0 +1,15 @@
+	(1) Factory Workers (Proportion)	(2) Farm Workers (Proportion)
+1849 std_land_timespec	-0.010***	0.049***
+	0.002	0.009
+Observations	279	279
+R-squared	0.07	0.10
+	(1) Factory Workers (Proportion)	(2) Farm Workers (Proportion)
+1816 soil_loam_pc	1.548***	1.548***
+	0.239	0.239
+Observations	279	279
+R-squared	0.20	0.20
+	(1) Factory Workers (Proportion)	(2) Farm Workers (Proportion)
+1849 std_land_timespec	-0.015**	0.059**
+	0.006	0.029
+Observations	279	279
+First-stage F-stat	42.10	42.10

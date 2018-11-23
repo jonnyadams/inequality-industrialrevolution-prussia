@@ -1,0 +1,15 @@
+	(1) Fabrics (Loom)	(2) Fabrics (Factory)	(3) Power Loom-Loom Ratio
+Share of Large Estates (1858)	-312.450***	-11.826***	-0.000
+	71.058	4.259	0.005
+Observations	279	279	277
+R-squared	0.13	0.17	0.01
+	(1) Fabrics (Loom)	(2) Fabrics (Factory)	(3) Power Loom-Loom Ratio
+Proportion of Loamy Soil	1.548***	1.548***	1.539***
+	0.239	0.239	0.239
+Observations	279	279	277
+R-squared	0.20	0.20	0.20
+	(1) Fabrics (Loom)	(2) Fabrics (Factory)	(3) Power Loom-Loom Ratio
+Share of Large Estates (1858)	-497.921*	-4.308	0.014
+	272.483	16.922	0.014
+Observations	279	279	277
+First-stage F-stat	42.10	42.10	41.38

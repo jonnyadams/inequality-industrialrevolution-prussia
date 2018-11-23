@@ -1,0 +1,15 @@
+	(1) Factory Workers (Proportion)	(2) Farm Workers (Proportion)
+Share of Large Estates (1858)	-0.464***	2.419***
+	0.102	0.536
+Observations	279	279
+R-squared	0.07	0.11
+	(1) Factory Workers (Proportion)	(2) Farm Workers (Proportion)
+Proportion of Loamy Soil	-0.023***	-0.023***
+	0.003	0.003
+Observations	270	270
+R-squared	0.18	0.18
+	(1) Factory Workers (Proportion)	(2) Farm Workers (Proportion)
+Share of Large Estates (1858)	-1.405***	7.009***
+	0.474	1.641
+Observations	270	270
+First-stage F-stat	48.19	48.19

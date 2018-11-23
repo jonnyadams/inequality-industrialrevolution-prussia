@@ -1,0 +1,15 @@
+	(1) Engine Power	(2) Number of Steam Engines	(3) Number of Handlooms	(4) Number of Looms	(5) Ratio of Handlooms to Looms
+Share of Large Estates (1858)	-7149.276***	-174.920***	-9465.856***	9467.420	-2.970***
+	2497.979	50.062	3063.028	8194.737	0.594
+Observations	279	279	279	279	279
+R-squared	0.10	0.24	0.05	0.40	0.07
+	(1) Engine Power	(2) Number of Steam Engines	(3) Number of Handlooms	(4) Number of Looms	(5) Ratio of Handlooms to Looms
+Proportion of Loamy Soil	-0.023***	-0.023***	-0.023***	-0.023***	-0.023***
+	0.003	0.003	0.003	0.003	0.003
+Observations	270	270	270	270	270
+R-squared	0.18	0.18	0.18	0.18	0.18
+	(1) Engine Power	(2) Number of Steam Engines	(3) Number of Handlooms	(4) Number of Looms	(5) Ratio of Handlooms to Looms
+Share of Large Estates (1858)	-13369.398**	-290.369**	-17756.280	9511.823	-6.479**
+	6366.678	121.657	16343.727	17905.346	2.754
+Observations	270	270	270	270	270
+First-stage F-stat	48.19	48.19	48.19	48.19	48.19
